@@ -1,6 +1,18 @@
-#Fontend Assessments
-Live Demo(HastRekha) : https://hastrekhaa.netlify.app/
-Live Demo(Peace Vision) : https://peacevisions.netlify.app/
+# Frontend Assessments 🚀
+
+This repository contains my frontend assessment projects built using modern web technologies.
+
+---
+
+## 🌟 Live Demos
+
+### 🖐️ HastRekha (Palm Reading UI)
+
+🔗 https://hastrekhaa.netlify.app/
+
+### 🌿 Peace Vision
+
+🔗 https://peacevisions.netlify.app/
 # 🌟 1.HastRekha – AI Palm Reading Landing Page
 
 PalmRekha is a modern, cinematic AI-powered palm reading landing page built using React, Vite, Tailwind CSS, and Framer Motion.
